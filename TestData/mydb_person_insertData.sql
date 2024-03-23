@@ -1,0 +1,5 @@
+INSERT INTO mydb.person values(101,"John","Canady")
+INSERT INTO mydb.person values(101,"David","Canady")
+INSERT INTO mydb.person values(101,"Smith","Canady")
+INSERT INTO mydb.person values(101,"Marry","Canady")
+INSERT INTO mydb.person values(101,"Tye","Canady")
